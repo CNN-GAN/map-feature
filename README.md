@@ -1,2 +1,1 @@
-# map-feature
-A GAN framework for map feature extraction
+tensorboard --logdir=/tmp/tensorflow/ali
